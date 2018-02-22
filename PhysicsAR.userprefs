@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Custom\UIBroadcast\MainTarget.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Custom\ChangeObjectPool.cs" Line="17" Column="35" />
+      <File FileName="Assets\Scripts\Custom\ObjectPooling\FallingObject.cs" Line="5" Column="36" />
+      <File FileName="Assets\Scripts\Broadcasting\EventNames.cs" Line="17" Column="69" />
+      <File FileName="Assets\Scripts\Custom\UIBroadcast\AnchorTarget.cs" Line="31" Column="1" />
+      <File FileName="Assets\Scripts\Custom\UIBroadcast\ModifyPhysicsScreen.cs" Line="32" Column="1" />
+      <File FileName="Assets\Scripts\Custom\UIBroadcast\MainTarget.cs" Line="25" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
